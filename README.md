@@ -13,6 +13,7 @@ Try to use the most concise picture effect to let players explore the game world
 Black humorous style, fresh and fantastic puzzles, metaphorical open plot.
 
 ## 2019年Global Game Jam 作品
+主题：Home（家）
 
 ### 主策划：
 KUJIRA
